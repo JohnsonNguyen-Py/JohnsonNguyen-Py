@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=blue)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=blue)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=purple)
-![](https://img.shields.io/badge/Tools-Kali-informational?style=flat&logo=Kali&logoColor=white)
+![](https://img.shields.io/badge/Tools-KaliLinux-informational?style=flat&logo=Kali&logoColor=white)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnsonNguyen-Py&label=Profile%20views&color=0e75b6&style=flat" /> </p>
