@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnsonNguyen-Py&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-## Detailed-oriented Computer Science student (anticipated to graduate in May 2022) seeking a Software/DevOps Engineering Position. While utilizing my proficient Software Engineering skills, and familiarity in Python /MySQL/ JavaScript / Java /Linux (Kali)/ GIT/ AWS (currently learning)/ Docker(currently learning)/ Kubernetes(curently learning)/ Terraform(currently learning) along with the desire to learn and improve, I will deliver quality products in a high-energy and face-paced environment. With my communication skills I will be an effective and collaborative team member.
+Detailed-oriented Computer Science student (anticipated to graduate in May 2022) seeking a Software/DevOps Engineering Position. While utilizing my proficient Software Engineering skills, and familiarity in Python /MySQL/ JavaScript / Java /Linux (Kali)/ GIT/ AWS (currently learning)/ Docker(currently learning)/ Kubernetes(curently learning)/ Terraform(currently learning) along with the desire to learn and improve, I will deliver quality products in a high-energy and face-paced environment. With my communication skills I will be an effective and collaborative team member.
 
 - 🔭 I’m currently working on school projects!
 
