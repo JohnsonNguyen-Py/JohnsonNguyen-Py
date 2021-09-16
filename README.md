@@ -48,7 +48,7 @@ I'm currently a Computer Science student (anticipated to graduate in May 2022) s
 
 
 
- 📫 <h3 align="left">Connect with me, I might be your new engineer!:</h3>
+ <h3 align="left"> 📫 Connect with me, I might be your new engineer!:</h3>
 <p align="left">
 
 <!--<a href="https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" color ="white" /></a>-->
