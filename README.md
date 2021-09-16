@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/ **
 
-- ⚡ Fun fact: I love to explore that path less traveled 
+- ⚡ Fun fact: I love to explore the path less traveled 
 
 
 <h3 align="left">Connect with me:</h3>
