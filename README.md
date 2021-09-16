@@ -30,11 +30,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=purple)
 ![](https://img.shields.io/badge/Tools-KaliLinux-informational?style=flat&logo=Kali&logoColor=white)
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnsonNguyen-Py&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
-
- <h3 align="left"> 📫 Connect with me, and meet your new engineer! <img src="https://github.com/JohnsonNguyen-Py/JohnsonNguyen-Py/blob/main/wink.gif" height="40px" width="40px">  </h3>
+<h3 align="left"> 📫 Connect with me, and meet your new engineer! <img src="https://github.com/JohnsonNguyen-Py/JohnsonNguyen-Py/blob/main/wink.gif" height="40px" width="40px"></h3> 
 
  
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/) 
@@ -45,8 +42,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on school projects!
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS, Terraform**
-
-<!-- 📫 How to reach me **https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/ **-->
 
 - ⚡ Fun fact: I love to explore the path less traveled 
 
