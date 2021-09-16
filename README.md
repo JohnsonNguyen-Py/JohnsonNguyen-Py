@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hello! My name is Johnson Nguyen! 👋 </h1>
+
+
+<p> Tools I use! </p>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=Yellow)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=Green)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Yellow)
@@ -22,9 +26,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=red)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=blue)
 
-
-
-<h1 align="center">Hello! My name is Johnson Nguyen! 👋 </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnsonNguyen-Py&label=Profile%20views&color=0e75b6&style=flat" /> </p>
