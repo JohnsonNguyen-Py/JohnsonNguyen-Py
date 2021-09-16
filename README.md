@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Tools I use! 
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=Yellow)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=Green)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=orange)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=red)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=blue)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=blue)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=blue)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=purple)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnsonNguyen-Py&label=Profile%20views&color=0e75b6&style=flat" /> </p>
