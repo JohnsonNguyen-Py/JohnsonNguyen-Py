@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=orange)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=blue)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=red)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=blue)
 
 
