@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS, Terraform**
 
-- 📫 How to reach me **https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/ **
+<!-- 📫 How to reach me **https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/ **-->
 
 - ⚡ Fun fact: I love to explore the path less traveled 
 
@@ -53,7 +53,7 @@ I'm currently a Computer Science student (anticipated to graduate in May 2022) s
 
 <!--<a href="https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" color ="white" /></a>-->
 
- [![Linkedin Badge](https://img.shields.io/badge/-Johnson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/) 
+ 📫 [![Linkedin Badge](https://img.shields.io/badge/-Johnson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/) 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1hanzla100&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
 
