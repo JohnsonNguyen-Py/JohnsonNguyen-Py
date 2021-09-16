@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello! My name is Johnson Nguyen! 👋 </h1>
 
 
-## Tools I use! 
+## Languages and Tools I use! 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=Green)
