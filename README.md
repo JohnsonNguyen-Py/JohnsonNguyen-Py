@@ -47,7 +47,7 @@ I'm currently a Computer Science student (anticipated to graduate in May 2022) s
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" color ="white" /></a>
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1hanzla100&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
