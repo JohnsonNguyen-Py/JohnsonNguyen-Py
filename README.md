@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnsonNguyen-Py&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
+
+ <h3 align="left"> 📫 Connect with me, and meet your new engineer! </h3>
+<p align="left">
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/) 
+
+
 ## About me
 
 - 🔭 I’m currently working on school projects!
@@ -48,12 +55,9 @@ I'm currently a Computer Science student (anticipated to graduate in May 2022) s
 
 
 
- <h3 align="left"> 📫 Connect with me, and meet your new engineer!:</h3>
-<p align="left">
 
 <!--<a href="https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" color ="white" /></a>-->
 
- [![Linkedin Badge](https://img.shields.io/badge/-Johnson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-nguyen-49aa3a1b5/) 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1hanzla100&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
 
