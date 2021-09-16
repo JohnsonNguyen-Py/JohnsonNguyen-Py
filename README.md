@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=Yellow)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=Green)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=color)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=orange)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=blue&white)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=blue)
