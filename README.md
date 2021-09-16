@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hello! My name is Johnson Nguyen! 👋 </h1>
+<h1 align="left">Hello! My name is Johnson Nguyen! <img src="https://github.com/JohnsonNguyen-Py/JohnsonNguyen-Py/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 
 
 ## Languages and Tools I use! 
