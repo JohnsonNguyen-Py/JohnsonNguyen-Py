@@ -19,17 +19,24 @@ Here are some ideas to get you started:
 
 ## Languages and Tools I use! 
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=Green)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Yellow)
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=orange)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=red)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=blue)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=blue)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=purple)
-![](https://img.shields.io/badge/Tools-KaliLinux-informational?style=flat&logo=Kali&logoColor=white)
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
+
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>&nbsp;
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>&nbsp;
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+<img alt="Docker" src="https://img.shields.io/badge/Docker-informational.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-informational.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;
+<img alt="Terraform" src="https://img.shields.io/badge/terraform-informational.svg?style=for-the-badge&logo=terraform&logoColor=Purple"/>&nbsp;
+<img alt="KaliLinux" src="https://img.shields.io/badge/Kali-informational.svg?style=for-the-badge&logo=Kali&logoColor=white"/>&nbsp;
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnsonNguyen-Py&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <h3 align="left"> 📫 Connect with me, and meet your new engineer! <img src="https://github.com/JohnsonNguyen-Py/JohnsonNguyen-Py/blob/main/wink.gif" height="30px" width="30px"></h3> 
