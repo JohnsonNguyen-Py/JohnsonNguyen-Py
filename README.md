@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cool stuff at work!!
 
-- 🌱 I’m currently learning **Docker, Kubernetes, AWS, Terraform, Jenkins, Ansible**
+- 🌱 I’m currently learning **Docker, Kubernetes, AWS, Terraform, Jenkins, Ansible, GCP**
 
 - ⚡ Fun fact: I love to explore the path less traveled 
 
