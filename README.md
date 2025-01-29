@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to explore the path less traveled 
 
 
-I'm currently a Computer Science student (anticipated to graduate in May 2022) and a DevOps Engineer. While utilizing my proficient Software Engineering skills, and familiarity in Python /MySQL/ JavaScript / Java /Linux (Ubuntu)/ GIT/ AWS/ Docker/ Kubernetes/ Terraform along with the desire to learn and improve, I will deliver quality products in a high-energy and face-paced environment. With my communication skills I will be an effective and collaborative team member.
+While utilizing my proficient Software Engineering skills, and familiarity in Python /MySQL/ JavaScript / Java /Linux (Ubuntu)/ GIT/ AWS/ Docker/ Kubernetes/ Terraform along with the desire to learn and improve, I will deliver quality products in a high-energy and face-paced environment. With my communication skills I will be an effective and collaborative team member.
 
 
 
